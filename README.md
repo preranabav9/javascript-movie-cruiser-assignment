@@ -49,7 +49,7 @@ The Objective of this assignment is to work with ReST API's , understand asynchr
 	`npm run test`  
  6. You shall also fix any eslint errors if present in code. To run eslint check locally, you shall execute `npm run eslint`  
  7. Once you have fixed all test cases and eslint errors locally, you shall submit your solution for the automated review as described below.  
-
+ 
 ## Submitting your solution for preliminary automated review  
 
  1. Open https://hobbes-nht.stackroute.in/#/ and login into the platform  

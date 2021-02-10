@@ -1,6 +1,40 @@
 {
   "movies": [
-  ],
-  "favourites": [
-  ]
-}
+    {
+      "id": 1,
+      "title": "lagan",
+      "posterPath": "../images/lagan.jpg",
+      "favourite": true
+      
+    },
+    {
+      "id": 2,
+      "title": "don",
+      "posterPath": "../images/don.jpg",
+      "favourite": false
+
+      
+    },
+    {
+      "id": 3,
+      "title": "3 idiot",
+      "posterPath": "../images/3idiot.jpg",
+      "favourite": true
+      
+    },
+    {
+      "id": 4,
+      "title": "run",
+      "posterPath": "../images/run.jpg",
+      "favourite": false
+      
+    },
+    {
+      "id": 5,
+      "title": "life",
+      "posterPath": "../images/life.jpg",
+      "favourite": true
+      
+    }]}
+  
+  
